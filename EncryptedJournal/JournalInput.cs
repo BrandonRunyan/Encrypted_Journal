@@ -6,7 +6,7 @@ using System.Windows.Forms;
 
 namespace EncryptedJournal
 {
-    static class Program
+    static class JournalInput
     {
         /// <summary>
         /// The main entry point for the application.
